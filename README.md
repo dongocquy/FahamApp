@@ -1,5 +1,5 @@
 # Hướng dẫn
-- Bước 1: Download file  [atmosapp-master.zip](https://github.com/dongocquy/fahamapp/archive/master.zip)
+- Bước 1: Download file  [FahamApp-master.zip](https://github.com/dongocquy/fahamapp/archive/master.zip)
 - Bước 2: Giải nén và chạy file: FahamApp.Win.exe \
 ![FahamApp.Win.exe](https://github.com/dongocquy/fahamapp/blob/master/Images/kasho.win.exe.png?raw=true)
 
