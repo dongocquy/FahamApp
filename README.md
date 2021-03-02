@@ -1,3 +1,5 @@
+# Link download
+[![Download](https://images-na.ssl-images-amazon.com/images/I/418eAHsdh0L.png)](https://github.com/dongocquy/fahamapp/archive/master.zip)
 # Hướng dẫn
 - Bước 1: Download file  [FahamApp-master.zip](https://github.com/dongocquy/fahamapp/archive/master.zip)
 - Bước 2: Giải nén và chạy file: FahamApp.Win.exe \
@@ -14,5 +16,3 @@
   - Quản lý nhập - bán rượu
   - Quản lý kho - kiểm kho\
 ![Download](https://github.com/dongocquy/fahamapp/blob/master/Images/kiemkho.png?raw=true)
-# Link download
-[![Download](https://images-na.ssl-images-amazon.com/images/I/418eAHsdh0L.png)](https://github.com/dongocquy/fahamapp/archive/master.zip)
